@@ -1,0 +1,23 @@
+http://vimdoc.sourceforge.net/htmldoc/usr_04.html#04.6
+OPEN FILE
+vim filename.txt
+
+EDIT FILE 
+i - INSERT
+(ESC) to go back to normal
+
+
+SAVE/EXIT
+ZZ - writes file and exit
+
+QUIT AND THROW THINGS AWAY
+:q!
+:q Quit
+
+SEARCH
+/searchterm - forward
+?serachterm - backward
+
+10.77.177.180 ipv4
+255.0.0.0 subnet
+10.77.177.7 gateway

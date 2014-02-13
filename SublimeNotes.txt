@@ -1,0 +1,22 @@
+OPEN CONSOLE
+ctrl+`
+
+OPEN PACKAGE MANAGER
+ctrl+shift+P
+type 'install', select 'Install Package'
+
+(ESSENTIAL PACKAGES)
+SideBarEnchancements
+TrailingSpaces
+BracketHighlighter
+Sass
+
+BASIC CONFIG
+Preferences>Settings-User
+"translate_tabs_to_spaces":true,
+"tab_size": 4
+
+CHANGE INTERFACE
+SpaceGray
+Package Control>Install Package>Theme - Spacegray
+Add "theme": "Spacegray Eighties.sublime-theme" to user config

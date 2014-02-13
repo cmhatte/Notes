@@ -1,0 +1,21 @@
+CHECKOUT SPECIFIC FILE (RESET FILE)
+git checkout -- filename
+CHECKOUT SPECIFIC VERSION OF FILE
+git checkout <commit> -- <filename>
+git checkout v1.2.3 -- filename		#tag 1.2.3
+git checkout stable -- filename		#stable branch
+
+CREATE NEW BRANCH
+git branch <branchname>
+
+SWITCH BRANCH
+git checkout <branchname>
+
+CREATE AND SWITCH
+git checkout -b <branchname>
+
+FETCH FILE FROM ANOTHER BRANCH
+git checkout <OTHER_BRANCH> -- path/to/file
+
+ONE LINE GIT LOG (COLOR CODED)
+git log --oneline --decorate
