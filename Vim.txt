@@ -16,8 +16,4 @@ QUIT AND THROW THINGS AWAY
 
 SEARCH
 /searchterm - forward
-?serachterm - backward
-
-10.77.177.180 ipv4
-255.0.0.0 subnet
-10.77.177.7 gateway
+?searchterm - backward
