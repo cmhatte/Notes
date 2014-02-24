@@ -19,3 +19,6 @@ git checkout <OTHER_BRANCH> -- path/to/file
 
 ONE LINE GIT LOG (COLOR CODED)
 git log --oneline --decorate
+
+REMOVE CACHED FILES
+git rm --cached <filename> (-r if directory)
