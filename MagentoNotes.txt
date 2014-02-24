@@ -1,0 +1,58 @@
+WIDGETS (control over frontend behavior/visual block placement/)
+
+CREATE AN EMPTY MODULE
+Should include module config - app/code/local/Sample/WidgetOne/etc/config.xml
+and an enabler file app/etc/modules/Sample_WidgetOne.xml
+
+DEFINE ENABLER FILE
+Define the code pool and dependencies of module. Specifying dependencies guarantees the module is installed after modules which the module depends on. (duh)
+Set whether it's enabled.
+
+app/etc/modules/Sample_WidgetOne.xml
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Sample_WidgetOne>
+			<active>true</active>
+			<codePool>local</codePool>
+			<depends>
+				<Mage_Cms>
+			</depends>
+		</Sample_WidgetOne>
+	</modules>
+</config>
+
+CREATE DEFAULT MODULE HELPER
+Required to make translation subsystem work properly. No code needed, only the class to be defined.
+app/code/local/Sample/WidgetOneHelper/Data.php
+<?php
+/**
+ * Sample Widget Helper
+ */
+class Sample_WidgetOne_Helper_Data extends Mage_Core_Helper_Abstract 
+{
+}
+
+CREATE CONFIGURATION FILE
+Define the module version in config file. Create module in custom namespace(Sample_), define a helper and blocks base class names here. 
+app/code/local/Sample/WidgetOne/etc/config.xml:
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Sample_WidgetOne>
+			<version>0.0.1</version>
+		</Sample_WidgetOne>
+	</modules>
+	<global>
+		<helpers>
+			<widgetone>
+				<class>Sample_WidgetOne_Helper</class>
+			</widgetone>
+		</helpers>
+		<blocks>
+			<widgetone>
+				<class>Sample_WidgetOne_Block</class>
+			</widgetone>
+		</blocks>
+	</global>
+</config>
