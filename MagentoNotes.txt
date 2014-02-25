@@ -1,8 +1,23 @@
 WIDGETS (control over frontend behavior/visual block placement/)
+http://www.magentocommerce.com/knowledge-base/entry/tutorial-creating-a-magento-widget-part-1
 
 CREATE AN EMPTY MODULE
 Should include module config - app/code/local/Sample/WidgetOne/etc/config.xml
 and an enabler file app/etc/modules/Sample_WidgetOne.xml
+
+Directory Structure
+-app
+|--code
+|	|--local
+|		|--Sample
+|			|--WidgetOne
+|				|--etc
+|				|	config.xml
+|				|--Helper
+|					Data.php
+|--etc
+	|--modules
+		|--Sample_WidgetOne.xml
 
 DEFINE ENABLER FILE
 Define the code pool and dependencies of module. Specifying dependencies guarantees the module is installed after modules which the module depends on. (duh)
@@ -56,3 +71,76 @@ app/code/local/Sample/WidgetOne/etc/config.xml:
 		</blocks>
 	</global>
 </config>
+
+DECLARE THE WIDGET
+Widgets provided by the module must be declared in the widget.xml file under the modules's etc/ folder. (Same folder module config.xml is located)
+-Minimal declaration of widget must contain following
+--Node with name being unique in system (good idea to include the simplified module label in node name to make sure there'll be no nodes witht he same coming from other modules)
+--<strong>type="..."<strong> attribute, which is typical block reference (constructed in the same way as in layout files)
+--Widget <strong>name</strong> declaration
+--Shore <strong>description</strong> of the widget
+app/code/local/Sample/WidgetOne/etc/widget.xml????
+<?xml version="1.0"?>
+<widgets>
+	<widgetone_digg type="widgetone/digg">
+		<name>Bookmark: Digg</name>
+		<description type="description">Adds a simple "You Digg?" link</description>
+	</widgetone_digg>
+	<!--if multiple-->
+	<widgetone_twitter type="widgetone/twitter">
+	
+	</widgetone_twitter>
+</widgets>
+
+CREATE FRONTEND BLOCKS FOR WIDGETS
+--WidgetOne
+	|--Block
+	|	Digg.php
+	|	Twitter.php
+	|	Delicious.php
+	|--etc
+	|	config.xml
+	|	widget.xml
+	|--Helper
+		Data.php
+		
+WIDGET BLOCK INTERFACE
+A widget block can be any class which implements the Mage_Widget_Block_Interface. 
+The interface declaration includes 3 methods
+-toHtml() - to produce the actual output
+-addDada(array $arr), setData($key, $value=null) - to allow Magento to assign the widget configuration parameters to a widget instance
+//is this Helper/Data.php?????
+<?php
+interface Mage_Widget_Block_Interface
+{
+	/** Produce and return widget's html output
+	  * @return string
+	  */
+	  public function toHtml();
+	  /** Add data to the widget. Retains previous data in the widget. 
+	    * @param array $arr
+	    * @return Mage_Widget_Block_Interface
+	    */
+	  public function addData(array $arr);	  
+	  /** Overwrite data in the widget.
+	    * $key can be string or array. If $key is string, the attribute value will be overwritten by $value.
+	    * If $key is an array, it will overwrite all the data in the widget.
+	    * @param string|array $key
+	    * @param mixed $value
+	    * @return Varien_Object
+	    */
+	  public function setData($key, $value = null);
+}
+
+FRONTEND WIDGET BLOCK
+app/code/local/Sample/WidgetOne/Block/Digg.php
+<?php
+class Sample_WidgetOne_Block_Digg extends Mage_Core_Block_Abstract implements Mage_Widget_Block_Interface
+{
+	/** Produces digg link html
+	  * @return string
+	  */
+	protected function _toHtml() {
+		return '<a class="digg" href="http://www.digg.com/submit?url=' . $this->getUrl('*/*/*', array('_current' => true, '_use_rewrite' => true)) . '&amp;phase=2" title="You Digg?">You Digg?</a>';
+	}
+}
