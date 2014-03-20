@@ -1,15 +1,177 @@
+http://localhost/MaxGama/ | Max Gaming Framework
+
+http://jquery-part2.codeschool.com/levels/1/sections/7 | Code School - jQuery: The Return Flight
+
+http://devoops.me/themes/devoops/index.html#ajax/dashboard.html | DevOOPS
+http://book.cakephp.org/2.0/en/tutorials-and-examples/blog/part-two.html | Blog Tutorial - Adding a layer — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/views/helpers.html | Helpers — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/models/data-validation.html | Data Validation — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/development/exceptions.html | Exceptions — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/development/routing.html#routes-configuration | Routing — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/getting-started/cakephp-conventions.html | CakePHP Conventions — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/models.html | Models — CakePHP Cookbook 2.x documentation
+http://book.cakephp.org/2.0/en/controllers.html | Controllers — CakePHP Cookbook 2.x documentation
+http://cakephpcheatsheet.com/ | CakePHP Cheat Sheet
+http://jh3y.github.io/-cs-spinner/ | (cs)spinner | pure CSS loading animations with minimal effort.
+http://www.icicletech.com/cheat-sheets/sublime-cheat-sheet-for-ruby-and-ruby-on-rails | Sublime Text Cheat Sheet for Ruby on Rails Development, Testing & Deployment
+
+https://developers.google.com/maps/documentation/javascript/demogallery | Demo Gallery - Google Maps JavaScript API v3 — Google Developers
+http://gmaps-samples-v3.googlecode.com/svn/trunk/sidebar/random-markers.html | gmaps-samples-v3.googlecode.com/svn/trunk/sidebar/random-markers.html
+https://developers.google.com/maps/documentation/javascript/examples/marker-simple?csw=1 | Simple markers - Google Maps JavaScript API v3 — Google Developers
+http://gmaps-samples-v3.googlecode.com/svn/trunk/infowindow_custom/infowindow-custom.html | Google Maps JavaScript API v3 Example: Info Window Custom
+http://gmaps-samples-v3.googlecode.com/svn/trunk/geocoder/getlatlng.html | gmaps-samples-v3.googlecode.com/svn/trunk/geocoder/getlatlng.html
+https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple?csw=1 | Info windows - Google Maps JavaScript API v3 — Google Developers
+https://developers.google.com/maps/documentation/javascript/examples/geocoding-reverse?csw=1 | Reverse Geocoding - Google Maps JavaScript API v3 — Google Developers
+https://twitter.com/i/notifications | Twitter / Interactions
+http://forum.feed-the-beast.com/threads/nfernalgaming-monster-1-0-11-whitelist-dedicated-mumble.40647/ | nFernalGaming | Monster 1.0.11 | Whitelist | Dedicated | Mumble | Feed the Beast
+http://mobile.smashingmagazine.com/2014/03/19/how-to-plan-your-next-mobile-ecommerce-website/ | How To Plan Your Next Mobile E-Commerce Website | Smashing Mobile
+
+http://www.youtube.com/watch?v=FyXeOX-uYMc | JQuery + PHP + MySQL- AJAX Chat Box - YouTube
+http://www.youtube.com/watch?v=YzmTcqAjh-U | PHP OOP Game Framework (Part 1) - YouTube
+http://codex.wordpress.org/Writing_a_Plugin | Writing a Plugin « WordPress Codex
+http://www.sitepoint.com/infinite-scrolling-rails-practice/ | Infinite scrolling with Rails, In Practice
+http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/ | Absolute Horizontal And Vertical Centering In CSS | Smashing Coding
+http://www.sitepoint.com/web-performance-tricks-beyond-basics/ | Web Performance Tricks - Beyond the Basics
+http://www.youtube.com/user/CakePHP/videos | CakePHP - YouTube
+http://www.amch.com/reporting/index.php | Reporting
+http://emberjs.com/ | Ember.js - A framework for creating ambitious web applications
+http://teamtreehouse.com/library/css-layout-techniques?cid=1164&utm_content=buffer890d6&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer | CSS Layout Techniques Deep Dive
+http://tympanus.net/codrops/2014/03/18/inspiration-for-item-transitions/?utm_content=buffercdeb9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Inspiration for Item Transitions | Codrops
+https://www.youtube.com/watch?v=keO6egndYrE | Google Maps Javascript API - YouTube
+http://www.universitycircle.org/transportation | Parking and Transportation Map | University Circle | Cleveland Ohio | Arts & Culture, Education & Medical District
+
+http://book.cakephp.org/2.0/en/tutorials-and-examples/blog-auth-example/auth.html | Simple Authentication and Authorization Application — CakePHP Cookbook 2.x documentation
+http://www.youtube.com/watch?v=94YQhwI61DY | Gulp | Kinetic Scrolling | Page Visibility | The Treehouse Show Episode 76 - YouTube
+http://kurtnoble.com/labs/rrssb/ | Ridiculously Responsive Social Sharing Buttons by KNI Labs
+http://book.cakephp.org/2.0/en/getting-started.html | Getting Started — CakePHP Cookbook 2.x documentation
+http://www.broculos.net/2008/03/how-to-make-simple-html-template-engine.html#.UxZI1fldWGc | How to make a simple HTML template engine in PHP
+http://alistapart.com/column/what-we-mean-when-we-say-responsive | What We Mean When We Say “responsive” ∙ An A List Apart Column
+http://lifehacker.com/how-to-stop-being-a-cynical-asshole-1537302138?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow | How to Stop Being a Cynical Asshole
+http://www.hongkiat.com/blog/wordpress-tools-for-development/ | 12 Essential Plugins for WordPress Developers
+http://webdesign.tutsplus.com/articles/creating-a-theme-for-anchor-cms--webdesign-13037 | Creating a Theme for Anchor CMS - Tuts+ Web Design Article
+http://mdo.github.io/code-guide/ | Code Guide by @mdo
+http://fluentpdo.com/documentation.html#gettingStarted | FluentPDO, smart SQL builder for PHP
+http://vimeo.com/63022489 | Tutorial - Creating a Poll application in 15 minutes with Phalcon on Vimeo
+
+http://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059 | Why you Should be using PHP's PDO for Database Access - Tuts+ Code Tutorial
+http://stackoverflow.com/questions/883365/row-count-with-pdo | php - Row count with PDO - Stack Overflow
+http://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059 | Why you Should be using PHP's PDO for Database Access - Tuts+ Code Tutorial
+http://vim.wikia.com/wiki/Saving_a_file | Saving a file - Vim Tips Wiki
+http://codex.wordpress.org/Blog_Design_and_Layout | Site Design and Layout « WordPress Codex
+http://localhost/wordpress/wp-admin/post.php?post=4&action=edit&message=1 | Edit Post ‹ Sheldon Attacked Leonard — WordPress
+http://localhost/wordpress/ | Sheldon Attacked Leonard | Just another WordPress site
+http://www.codeavengers.com/javascript/1#11.1 | Code Avengers: JavaScript Level 1 lesson 11.1
+
+http://internetisuseful.com/ | INTERNET IS USEFUL
+http://startbootstrap.com/sb-admin | SB Admin - A Free Bootstrap Admin Template
+http://www.lsi.upc.edu/~robert/teaching/foninf/doshelp.html#rename | Essential DOS Commands
+http://bootstrapthemes.quora.com/Top-30-Best-Quality-Bootstrap-Admin-Dashboard-Themes-And-Templates | Top 30 Best Quality Bootstrap Admin, Dashboard ... - Popular Bootstrap Themes And Templates - Quora
+http://themeforest.net/item/builder-responsive-multipurpose-theme/3596009?ref=lok123 | WordPress - BUILDER - Responsive Multi-Purpose Theme | ThemeForest
+http://themes.orange-idea.com/?theme=builder | OrangeIdea | Theme: Builder
+http://getbootstrap.com/components/#nav | Components · Bootstrap
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base | <base> - HTML | MDN
+http://git-scm.com/book/ch2-5.html | Git - Working with Remotes
+
+http://lifehacker.com/five-best-programming-languages-for-first-time-learners-1494256243?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow | Five Best Programming Languages for First-Time Learners
+http://kotaku.com/tips-for-playing-civilization-v-750428278 | Tips For Playing Civilization V
+https://www.learnvest.com/ | LearnVest - Financial Planning Services and Personal Finance News
+http://www.investopedia.com/ | Investopedia - Educating the world about finance
+https://www.betterment.com/ | Betterment | Sophisticated Online Financial Advice and Investment Management
+http://www.youtube.com/watch?v=Pij6J0HsYFA | Lec 2 | MIT 6.00 Introduction to Computer Science and Programming, Fall 2008 - YouTube
+http://activities.aliexpress.com/superdeals.php?src=nb&af=nb_272009&tp1=260799915&tp2=_{country}___&isdl=y&alpsm=true | SuperDeals-The Deepest Discounts on Top Quality Items.
+https://www.google.com/search?q=peerblock&oq=peer&aqs=chrome.1.69i57j0l5.2692j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8 | peerblock - Google Search
+http://www.youtube.com/watch?v=li4Y0E_x8zE | Enough with the JavaScript Already by Nicholas Zakas - YouTube
+http://www.sitepoint.com/php-right-way-book/ | PHP The Right Way: The Book - SitePoint
+https://account.swtor.com/play-free?utm_campaign=sor_pbm-g-i-us-brand&utm_medium=banner&sourceid=sor_pbm-g-i-us-brand&cid=13241 | Play Free Now | Star Wars: The Old Republic
+http://ui-animations.tumblr.com/ | UI Animations
+http://conqueringthecommandline.com/book | Softcover | Conquering the Command Line
+https://github.com/neiesc/ListOfMinimalistFrameworks | neiesc/ListOfMinimalistFrameworks · GitHub
+
+http://www.sitepoint.com/best-php-frameworks-2014/?utm_source=dlvr.it&utm_medium=facebook | Best PHP Frameworks for 2014 - SitePoint
+
+http://net.tutsplus.com/tutorials/other/getting-started-with-magento-ecommerce/ | Getting Started with Magento Ecommerce! | Nettuts+
+http://www.magentocommerce.com/download/get-started | Magento - Download Magento - eCommerce Software for Growth
+http://www.siteground.com/tutorials/magento/magento_installation.htm | Magento installation
+http://www.magentocommerce.com/boards/viewthread/12045 | Magento - Best way to learn Magento - How do I? Questions - eCommerce Software for Growth
+
+http://www.sitepoint.com/dealing-color-schemes-sass/ | Dealing with Color Schemes in Sass
+http://www.sitepoint.com/architecture-sass-project/?utm_medium=email&utm_campaign=SitePoint+Newsletter++6+March+2014&utm_content=SitePoint+Newsletter++6+March+2014+CID_2db27bba7a2dbe3ca2fc7cf789634184&utm_source=CampaignMonitor%20SitePoint&utm_term=Architecture%20for%20a%20Sass%20Project | Architecture for a Sass Project
+http://sass-lang.com/documentation/Sass/Script/Functions.html | Module: Sass::Script::Functions — Sass Documentation
+http://sass-lang.com/guide | Sass: Sass Basics
+http://www.mobify.com/blog/5-advanced-mobile-web-design-techniques-style-com/ | 5 Advanced Mobile Web Design Techniques You’ve Probably Never Seen Before | Mobify
+https://github.com/cubiq/iscroll | cubiq/iscroll
+http://alistapart.com/blog/post/organize-that-sass | Organize that Sass! ∙ An A List Apart Blog Post
+http://www.flathemes.com/docs/button.html | Button-Bootflat
+http://alphapixels.com/prepros/ | Prepros :: Compile Sass, less or any preprocessing language
+http://sass-lang.com/guide | Sass: Sass Basics
+http://thesassway.com/beginner/how-to-structure-a-sass-project | How to structure a Sass project - Beginner
+https://github.com/jlong/sass-bootstrap/tree/master/lib | sass-bootstrap/lib at master · jlong/sass-bootstrap
+https://github.com/korysharp/lucy/blob/master/admin/callouts/add_edit.php | lucy/admin/callouts/add_edit.php at master · korysharp/lucy
+http://thesassway.com/projects/sass-twitter-bootstrap | Sass Twitter Bootstrap - Projects
+http://cssfontstack.com/ | CSS Font Stack :: A complete collection of web safe CSS font stacks :: Web Fonts
+http://stackoverflow.com/questions/6694437/mysqli-fetch-all-not-a-valid-function | php - mysqli fetch_all() not a valid function? - Stack Overflow
+http://www.php.net/manual/en/mysqli-result.fetch-all.php | PHP: mysqli_result::fetch_all - Manual
+https://www.google.com/search?es_sm=93&espv=210&newwindow=1&q=mysqli+fetch_all+not+working&safe=off&cad=h | mysqli fetch_all not working - Google Search
+https://www.google.com/search?q=html+resume&newwindow=1&safe=off&espv=210&es_sm=93&source=lnms&tbm=isch&sa=X&ei=FHyBUsa_F6eP2gXKooHQBA&ved=0CAkQ_AUoAQ&biw=1325&bih=838#facrc=_&imgdii=_&imgrc=ACaWE7iCciJdlM%3A%3B9GMNPFQJBr-q6M%3Bhttp%253A%252F%252F1.s3.envato.com%252Ffiles%252F254359%252F1_cv-preview.__large_preview.jpg%3Bhttp%253A%252F%252Fthemeforest.net%252Fitem%252Fclean-cv-resume-html-template-4-bonuses%252F82474%3B590%3B300 | html resume - Google Search
+http://getbootstrap.com/components/#panels | Components · Bootstrap
+http://chrishattery.com/projects/phpacadamy/LoginRegisterOOP/ | chrishattery.com/projects/phpacadamy/LoginRegisterOOP/
+
+http://kunaki.com/Prices.ASP?Type=Response | Kunaki -- CD/DVD manufacturing and publishing service
+
+http://stackoverflow.com/questions/153909/why-is-my-javascript-function-sometimes-not-defined | Why is my JavaScript function sometimes "not defined"? - Stack Overflow
+http://chrishattery.com/projects/teamtreehouse/js-foundations/index.html | chrishattery.com/projects/teamtreehouse/js-foundations/index.html
+http://blog.teamtreehouse.com/student-success-stories-ethan-eirinberg?utm_source=facebook&utm_medium=social&utm_campaign=11-14-13-treehouse-blog-student-success-stories-ethan-eirinberg | Student Success Stories: Ethan Eirinberg - Treehouse Blog
+
+http://www.eyemg.com/cms/site/0c728da7d1708f29/index.html#axzz2vYXOkfWP | Front-end UI Developer (posted 09/2013) : EYEMG - Website Design | Web Development | Web Hosting | Canton Akron Cleveland Ohio
+http://www.assuramed.com/careers/jobs/user-experience-specialist/ | User Experience Specialist | AssuraMed
+
+file:///C://Sites/udemy-complete-web-design/notes.html | TODO supply a title
+https://www.udemy.com/thecompletewebdeveloper/#/lecture/93611 | Learn Web Development - Web Development Course | Udemy
+
+http://localhost/drivertisingdelivery/login | Sponsor Registration Page | Local Products - Home Delivery | Drivertising Delivery
+http://www.peapod.com/ | Peapod Online Grocery Shopping and Delivery Service
+http://www.greenpolkadotbox.com/ | The Green PolkaDot Box™
+http://www.npr.org/blogs/thesalt/2013/06/05/188959969/amazon-s-grocery-delivery-a-trojan-horse-to-get-into-your-door | Amazon's Grocery Delivery: A Trojan Horse To Get In Your Door : The Salt : NPR
+http://fresh.amazon.com/Gateway?browseMP=A241IQ0793UAL2 | Home | AmazonFresh
+https://apps.bigbase.nl/templates/data/web/5001/ | Index
+http://myorange.ca/wp_peachrealestate/ | Peach Realestate | by MyOrange
+http://myorange.ca/wp_peachrealestate/ | http://myorange.ca/wp_peachrealestate/
+http://freeme.bootstrapmaster.com/index.html | FreeME:BOOTSTRAP THEME by BootstrapMaster
+http://www.template-guide.com/preview/5545/ | Bakery
+http://shop.mywebgrocer.com/Shop.aspx?&strid=23025897&shopurl=https://shop.mywebgrocer.com/SignIn.aspx?&destination=myaccount | Ellet IGA
+http://designmodo.com/ted-web-design/ | 15 TED Talks Every Web Designer Should Watch - Designmodo
+http://www.youtube.com/watch?v=McMWRA4Tzw0&sns=fb | Sh*t People Say to Bartenders - YouTube
+http://css-tricks.com/complete-guide-table-element/ | A Complete Guide to the Table Element | CSS-Tricks
+
+http://www.html5bookmarks.com/ | HTML5 Bookmarks - daily news articles and bookmarks
+http://24ways.org/ | Web design and development articles and tutorials for advent ◆ 24 ways
+http://24ways.org/2013/url-rewriting-for-the-fearful/ | URL Rewriting for the Fearful ◆ 24 ways
+http://www.google.com/fonts#UsePlace:use/Collection:Lato | Google Fonts
+https://www.google.com/search?q=php+array+tutorial&oq=php+array+tutorial&aqs=chrome..69i57j69i65j0l3.5542j0&sourceid=chrome&ie=UTF-8#q=php+array+tutorial&safe=off&start=10 | php array tutorial - Google Search
+http://www.homeandlearn.co.uk/php/php6p2.html | PHP Tutorials: Setting up an Array
+http://www.youtube.com/watch?v=3GUmbMd8afE | PHP Array Tutorial | 7 - YouTube
+http://www.learnphp-tutorial.com/Arrays.cfm#.UiAUwBvXRvM | PHP Tutorial
+http://www.thinkful.com/learn/javascript-best-practices-1/ | Thinkful | Javascript Best Practices Part 1
+
+http://www.wikihow.com/Throw-a-Co-Ed-Baby-Shower | How to Throw a Co Ed Baby Shower: 10 Steps - wikiHow
+http://www.everydayfamily.com/blog/ultimate-gift-guide-for-pregnant-moms/?slide=12&internallink=ultimate-gift-guide-for-pregnant-moms#post-62154 | The Ultimate Gift Guide for Pregnant Moms
+http://www.everydayfamily.com/co-ed-baby-showers-for-the-mom-and-dad-to-be/ | Co-ed Baby Showers for the Mom- and Dad-to-Be
+http://babynamesworld.parentsconnect.com/russian-names-7.html#continue | Russian Names & Meanings | Russian Boy & Girl Names | Baby Names | Parents Connect
+http://babynamesworld.parentsconnect.com/meaning_of_Lidiya.html | Lidiya | Name Meaning & Origin | Girl Name Lidiya | Baby Names World
+http://babynamesworld.parentsconnect.com/meaning_of_Maiya.html | Maiya | Name Meaning & Origin | Girl Name Maiya | Baby Names World
+http://babynamesworld.parentsconnect.com/meaning_of_Nadia.html | Nadia | Name Meaning & Origin | Girl Name Nadia | Baby Names World
+http://babynamesworld.parentsconnect.com/meaning_of_Nadeah.html | Nadeah | Name Meaning & Origin | Girl Name Nadeah | Baby Names World
+http://www.invitationbox.com/couples-baby-shower-invitations.html | Couples Baby Shower Invitations | Couples Shower Invitations
+http://www.invitationbox.com/perfect-pregnant-couple-pink.html | Perfect Pregnant Couple - Pink - Couples Baby Shower - Baby Shower - Invitations
+http://www.invitationbox.com/get-ready-freddy.html | Get Ready Freddy - Couples Baby Shower - Baby Shower - Invitations
+
+http://www.sitepoint.com/introduction-to-git-1/ | Introduction to Git, Part 1 - SitePoint
+http://git-scm.com/book/en/Customizing-Git-Git-Configuration | Git - Git Configuration
+
+http://www.moleculejs.net/ | Molecule | HTML5 Game Framework
+
 http://stackoverflow.com/questions/2708237/php-mysql-transactions-examples | PHP + MySQL transactions examples - Stack Overflow
-http://www.tomshardware.com/answers/id-1747999/internet-connection-browse.html | Internet connection but can't browse [Solved] - Gaming - Windows 8
-https://www.google.com/search?q=magento+auto+part+finder&oq=magento+auto+part+finder&aqs=chrome..69i57j0j69i64.3769j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=magento+part+finder+tutorial&start=20 | magento part finder tutorial - Google Search
-https://www.google.com/search?q=magento+create+part+finder&oq=magento+create+part+finder&aqs=chrome..69i57j69i64.12019j0j4&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=magento+create+product+finder&tbs=qdr:y | https://www.google.com/search?q=magento+create+part+finder&oq=magento+create+part+finder&aqs=chrome..69i57j69i64.12019j0j4&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=magento+create+product+finder&tbs=qdr:y is not available
-http://blog.chandanweb.com/magento/adding-search-by-category-feature-to-magento-advanced-search-and-catlog-search-in-product-list-view | Adding search by Category feature to Magento Advanced search and catlog search in Product list view - Blog for the Web Programmers
-http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-7-advanced-orm-entity-attribute-value | http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-7-advanced-orm-entity-attribute-value is not available
-http://www.blipstar.com/blipstarplus/create_a_store_locator_for_ecommerce_system.php | Creating a store locator for your e-commerce system (online shopping carts) - Blipstar
-http://vehiclefits.com/download/magento | http://vehiclefits.com/download/magento is not available
-http://inchoo.net/ecommerce/magento/setting-up-magento-on-git-repository/ | Setting up Magento on Git repository � Inchoo
-https://www.sonassi.com/knowledge-base/our-magento-git-guide-and-work-flow/ | Our Magento Git Guide and Work Flow | Sonassi Makes Magento Ecommerce Websites
 http://devdocs.io/git/git-branch | DevDocs
-http://coding.smashingmagazine.com/2014/01/15/create-custom-shipping-methods-magento/ | Creating Custom Shipping Methods In Magento | Smashing Coding
 http://overapi.com/vim/ | Vim Cheat Sheet | OverAPI.com
 http://css2less.cc/ | Css2Less
 http://www.sitepoint.com/an-introduction-to-magento-themes/ | Tutorial: Introduction to Magento Theme Development - SitePoint
@@ -23,29 +185,10 @@ https://www.facebook.com/photo.php?fbid=696913423686358&set=np.350226213.5137358
 https://www.facebook.com/photo.php?fbid=681698498546879&set=np.350255057.513735831&type=1&ref=notif&notif_t=notify_me | The Magento Ecosystem added 2 new photos. - The Magento Ecosystem
 
 http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/ | Sublime Text 3 Guide: Tips, Tricks, and Shortcuts
-https://github.com/github/gitignore/blob/master/Magento.gitignore | gitignore/Magento.gitignore at master � github/gitignore � GitHub
-http://inchoo.net/ecommerce/magento/setting-up-magento-on-git-repository/ | Setting up Magento on Git repository � Inchoo
-https://www.sonassi.com/knowledge-base/our-magento-git-guide-and-work-flow/ | Our Magento Git Guide and Work Flow | Sonassi Makes Magento Ecommerce Websites
 
-http://www.magentocommerce.com/magento-connect/nblog-blog-extension-for-magento.html | nBlog - Blog Extension for Magento - Magento Connect
-http://www.siteground.com/tutorials/magento/structure.htm | Magento Files and Folders Structure
-http://www.siteground.com/tutorials/magento/magento_features.htm | Magento Features and how to use them
-http://www.magentocommerce.com/wiki/5_-_modules_and_development/admin/xml_structure_for_admin_configurations | Magento - Wiki - XML for Admin Configurations
-http://www.redlightblinking.com/blog/magento-debugging-how-to-debug-template-paths-logging-and-display-errors | Magento Debugging - how to debug template paths, logging and display errors - RedLightBlinking
-http://www.magentocommerce.com/training/descriptions#quick-start-magento-ustomization | Magento - Course Descriptions - eCommerce Software for Growth
-http://www.siteground.com/tutorials/magento/import-products.htm | http://www.siteground.com/tutorials/magento/import-products.htm is not available
-http://blog.maximusbusiness.com/2012/11/magento-raw-product-import-csv-creation/ | http://blog.maximusbusiness.com/2012/11/magento-raw-product-import-csv-creation/ is not available
-https://www.yireo.com/tutorials/magento | Magento tutorials - Yireo
-http://www.youtube.com/watch?v=KtBaozxkFgI | Quick Start to Magento Customization - Part 1 - YouTube
-http://blog.magikcommerce.com/how-to-customize-magento-templates/ | How To Customize Magento Templates - Magik
 http://mashable.com/2014/01/21/learn-programming-languages/?utm_cid=mash-com-fb-main-link | http://mashable.com/2014/01/21/learn-programming-languages/?utm_cid=mash-com-fb-main-link is not available
-http://community.bitnami.com/t/moving-magento-to-root-without-automatic-redirect-to-magento/3037 | http://community.bitnami.com/t/moving-magento-to-root-without-automatic-redirect-to-magento/3037 is not available
-http://bgmemo.com/backup-rollback-magento/ | http://bgmemo.com/backup-rollback-magento/ is not available
-http://www.siteground.com/tutorials/magento/magento_issues.htm | Magento Issues - 10 most common Magento problems
-http://mymorningroutine.com/ | My Morning Routine � For a more productive and enjoyable day
+http://mymorningroutine.com/ | My Morning Routine � For a more productive and enjoyable day
 
 https://github.com/veltman/clmystery | veltman/clmystery
 http://www.skilledup.com/learn-web-design-guide/ | Learn Web Design: 50+ of the Best Online Educational Resources to Learn to Build Web Sites
 http://darkpatterns.org/ | Dark Patterns - User Interfaces Designed to Trick People
-http://wiki.bitnami.com/Components/Apache#How_to_redirect_www.myapp.example.com_(or_other_domains)_to_my_server.3f | Oops! Google Chrome could not find wiki.bitnami.com
-http://wiki.bitnami.com/Components/phpMyAdmin_and_phpPgAdmin?utm_source=bitnami&utm_medium=cloudimage&utm_campaign=Cloud%2BImage | phpMyAdmin and phpPgAdmin - BitNami documentation
