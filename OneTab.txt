@@ -58,8 +58,6 @@ http://stackoverflow.com/questions/883365/row-count-with-pdo | php - Row count w
 http://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059 | Why you Should be using PHP's PDO for Database Access - Tuts+ Code Tutorial
 http://vim.wikia.com/wiki/Saving_a_file | Saving a file - Vim Tips Wiki
 http://codex.wordpress.org/Blog_Design_and_Layout | Site Design and Layout « WordPress Codex
-http://localhost/wordpress/wp-admin/post.php?post=4&action=edit&message=1 | Edit Post ‹ Sheldon Attacked Leonard — WordPress
-http://localhost/wordpress/ | Sheldon Attacked Leonard | Just another WordPress site
 http://www.codeavengers.com/javascript/1#11.1 | Code Avengers: JavaScript Level 1 lesson 11.1
 
 http://internetisuseful.com/ | INTERNET IS USEFUL
@@ -89,11 +87,6 @@ https://github.com/neiesc/ListOfMinimalistFrameworks | neiesc/ListOfMinimalistFr
 
 http://www.sitepoint.com/best-php-frameworks-2014/?utm_source=dlvr.it&utm_medium=facebook | Best PHP Frameworks for 2014 - SitePoint
 
-http://net.tutsplus.com/tutorials/other/getting-started-with-magento-ecommerce/ | Getting Started with Magento Ecommerce! | Nettuts+
-http://www.magentocommerce.com/download/get-started | Magento - Download Magento - eCommerce Software for Growth
-http://www.siteground.com/tutorials/magento/magento_installation.htm | Magento installation
-http://www.magentocommerce.com/boards/viewthread/12045 | Magento - Best way to learn Magento - How do I? Questions - eCommerce Software for Growth
-
 http://www.sitepoint.com/dealing-color-schemes-sass/ | Dealing with Color Schemes in Sass
 http://www.sitepoint.com/architecture-sass-project/?utm_medium=email&utm_campaign=SitePoint+Newsletter++6+March+2014&utm_content=SitePoint+Newsletter++6+March+2014+CID_2db27bba7a2dbe3ca2fc7cf789634184&utm_source=CampaignMonitor%20SitePoint&utm_term=Architecture%20for%20a%20Sass%20Project | Architecture for a Sass Project
 http://sass-lang.com/documentation/Sass/Script/Functions.html | Module: Sass::Script::Functions — Sass Documentation
@@ -102,7 +95,6 @@ http://www.mobify.com/blog/5-advanced-mobile-web-design-techniques-style-com/ | 
 https://github.com/cubiq/iscroll | cubiq/iscroll
 http://alistapart.com/blog/post/organize-that-sass | Organize that Sass! ∙ An A List Apart Blog Post
 http://www.flathemes.com/docs/button.html | Button-Bootflat
-http://alphapixels.com/prepros/ | Prepros :: Compile Sass, less or any preprocessing language
 http://sass-lang.com/guide | Sass: Sass Basics
 http://thesassway.com/beginner/how-to-structure-a-sass-project | How to structure a Sass project - Beginner
 https://github.com/jlong/sass-bootstrap/tree/master/lib | sass-bootstrap/lib at master · jlong/sass-bootstrap
