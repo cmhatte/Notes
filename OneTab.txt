@@ -69,7 +69,6 @@ http://bootstrapthemes.quora.com/Top-30-Best-Quality-Bootstrap-Admin-Dashboard-T
 http://themeforest.net/item/builder-responsive-multipurpose-theme/3596009?ref=lok123 | WordPress - BUILDER - Responsive Multi-Purpose Theme | ThemeForest
 http://themes.orange-idea.com/?theme=builder | OrangeIdea | Theme: Builder
 http://getbootstrap.com/components/#nav | Components · Bootstrap
-http://localhost/StatWatchServices/ | Bootstrap 101 Template
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base | <base> - HTML | MDN
 http://git-scm.com/book/ch2-5.html | Git - Working with Remotes
 
@@ -152,7 +151,6 @@ https://www.google.com/search?q=php+array+tutorial&oq=php+array+tutorial&aqs=chr
 http://www.homeandlearn.co.uk/php/php6p2.html | PHP Tutorials: Setting up an Array
 http://www.youtube.com/watch?v=3GUmbMd8afE | PHP Array Tutorial | 7 - YouTube
 http://www.learnphp-tutorial.com/Arrays.cfm#.UiAUwBvXRvM | PHP Tutorial
-http://xhamster.com/movies/2140734/4_sexy_teen_girls.html | 4 sexy Teen Girls - xHamster.com
 http://www.thinkful.com/learn/javascript-best-practices-1/ | Thinkful | Javascript Best Practices Part 1
 
 http://www.wikihow.com/Throw-a-Co-Ed-Baby-Shower | How to Throw a Co Ed Baby Shower: 10 Steps - wikiHow
@@ -173,17 +171,7 @@ http://git-scm.com/book/en/Customizing-Git-Git-Configuration | Git - Git Configu
 http://www.moleculejs.net/ | Molecule | HTML5 Game Framework
 
 http://stackoverflow.com/questions/2708237/php-mysql-transactions-examples | PHP + MySQL transactions examples - Stack Overflow
-http://www.tomshardware.com/answers/id-1747999/internet-connection-browse.html | Internet connection but can't browse [Solved] - Gaming - Windows 8
-https://www.google.com/search?q=magento+auto+part+finder&oq=magento+auto+part+finder&aqs=chrome..69i57j0j69i64.3769j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=magento+part+finder+tutorial&start=20 | magento part finder tutorial - Google Search
-https://www.google.com/search?q=magento+create+part+finder&oq=magento+create+part+finder&aqs=chrome..69i57j69i64.12019j0j4&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=magento+create+product+finder&tbs=qdr:y | https://www.google.com/search?q=magento+create+part+finder&oq=magento+create+part+finder&aqs=chrome..69i57j69i64.12019j0j4&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=magento+create+product+finder&tbs=qdr:y is not available
-http://blog.chandanweb.com/magento/adding-search-by-category-feature-to-magento-advanced-search-and-catlog-search-in-product-list-view | Adding search by Category feature to Magento Advanced search and catlog search in Product list view - Blog for the Web Programmers
-http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-7-advanced-orm-entity-attribute-value | http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-7-advanced-orm-entity-attribute-value is not available
-http://www.blipstar.com/blipstarplus/create_a_store_locator_for_ecommerce_system.php | Creating a store locator for your e-commerce system (online shopping carts) - Blipstar
-http://vehiclefits.com/download/magento | http://vehiclefits.com/download/magento is not available
-http://inchoo.net/ecommerce/magento/setting-up-magento-on-git-repository/ | Setting up Magento on Git repository � Inchoo
-https://www.sonassi.com/knowledge-base/our-magento-git-guide-and-work-flow/ | Our Magento Git Guide and Work Flow | Sonassi Makes Magento Ecommerce Websites
 http://devdocs.io/git/git-branch | DevDocs
-http://coding.smashingmagazine.com/2014/01/15/create-custom-shipping-methods-magento/ | Creating Custom Shipping Methods In Magento | Smashing Coding
 http://overapi.com/vim/ | Vim Cheat Sheet | OverAPI.com
 http://css2less.cc/ | Css2Less
 http://www.sitepoint.com/an-introduction-to-magento-themes/ | Tutorial: Introduction to Magento Theme Development - SitePoint
