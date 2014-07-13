@@ -22,3 +22,31 @@ git log --oneline --decorate
 
 REMOVE CACHED FILES
 git rm --cached <filename> (-r if directory)
+
+
+// http://blog.hidiplo.io/git-reference/
+SnapShotting
+git add: Will allow you to add files to the staging area. It also lets you add new modifications to existing files.
+git status: Allows you to view files statuses across staging areas and working directories.
+git diff: Will display the difference between staged content and that which has been modified but not staged.
+git commit: Once content has been staged, git commit is run to record the snapshot.
+git reset: Will undo unwanted changes and commits and can reverse anything accidentally staged.
+git rm: Completely removes files from the staging area, effectively deleting it.
+git stash: Is a sort of intermediate command which will save changes to your current working directory and index for later use, without committing the work.
+
+Merging and branching
+git branch: Will create, list and manage working contexts.
+git checkout: Is used when you need to switch to another branch context.
+git merge: Will merge any branch context into the current main branch.
+git log: Allows the user to show the commit history of any branch
+git tag: Is used to provide a bookmark for any snapshot that the user wants to highlight.
+
+Updating or sharing projects
+git remote: Is used to add, delete or just list remote repository aliases.
+git fetch: Will fetch new data and branches from a remote repository.
+git pull: Will take data from a remote repository and attempt to merge into the current branch.
+git push: Is used to push data and new branches to a remote repository.
+
+Comparison and inspection
+git log: Is used in this context to filter commit history by factors such as author or by certain time periods.
+git diff: Will allow users to compare the changes between two separate snapshots.
